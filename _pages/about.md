@@ -21,10 +21,11 @@ I am a senior student majoring in Computer Science and Technology in The Chinese
 
 My research interest includes auditory attention decoding (AAD), human-computer interaction (HCI), and neuroscience. I have several internship experiences as a product manager and a software development engineer. Besides, I'm also a music lover, and play drums in several bands.
 
-
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-->
 
 # 📝 Publications 
 
