@@ -19,7 +19,13 @@ redirect_from:
 
 I am a senior student majoring in Computer Science and Technology in The Chinese University of Hong Kong, Shenzhen. 
 
-My research interest includes auditory attention decoding (AAD), human-computer interaction (HCI), and neuroscience. I have several internship experiences as a product manager and a software development engineer. Besides, I'm also a music lover, and play drums in several bands.
+I am now working on Auditory spatial attention detection (ASAD), AIGC in human-computer interaction, and protein-protein interaction using GCN, under the supervision of Prof. Haizhou Li (李海洲), Prof. Pengcheng An (安鹏铖), and Prof. Gang Cao (曹罡). If you are interested in my research, please feel free to contact me at 119010148@link.cuhk.edu.cn. I am more than happy to discuss with you about these topics.
+
+My research interest includes auditory attention decoding (AAD), human-computer interaction (HCI), and biology techonology. 
+
+Furthermore, I also have several internship experiences as a product manager and a software development engineer. I worked in Microsoft, ByteDance, and Tencent, under the mentorship of Xinwei Nie (聂鑫伟), Yuxuan Guo (郭玉瑄), and Lin Lin (林琳). 
+
+Last but not least, I'm also a music lover, and play drums in several bands. 
 
 <!--
 # 🔥 News
